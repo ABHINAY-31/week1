@@ -1,4 +1,7 @@
 #!/usr/bin/env python
+dj4e_user1 / Meow_f8ee6a_41  
+dj4e_user2 / Meow_42_f8ee6a 
+<meta name="dj4e" content="ff8ee6aac61c11f16443646cdf467146">
 """Django's command-line utility for administrative tasks."""
 import os
 import sys
